@@ -1,2 +1,3 @@
 Infinite scroll
-bigger picture
+bigger picture 
+cute icon
